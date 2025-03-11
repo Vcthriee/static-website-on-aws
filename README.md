@@ -14,8 +14,7 @@ This project demonstrates how to host a static website on AWS using **S3** and *
    ⬇
 [ CloudFront - HTTPS ]
    ⬇
-[ S3 - index.html ]
-
+[ S3 - index.html ](https://github.com/Vcthriee/static-website-on-aws/blob/main/Untitled%20Diagram.drawio.png)
 
 
   
