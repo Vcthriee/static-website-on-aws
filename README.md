@@ -24,7 +24,7 @@ This project demonstrates how to host a static website on AWS using **S3** and *
 
 ## 🛠 Steps to Deploy
 1. Created an S3 bucket & enabled static website hosting  
-2. Uploaded `index.html` file  
+2. Uploaded `[index.html](https://github.com/Vcthriee/static-website-on-aws/blob/main/index.html) file  
 3. Configured IAM bucket policy for public read access  
 4. Set up a CloudFront distribution for HTTPS & CDN caching  
 5. Tested and deployed the website  
