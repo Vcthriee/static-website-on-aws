@@ -1,15 +1,20 @@
 # static-website-on-aws
 # 🌍 Static Website Hosting on AWS (Beginner Cloud Project)
 
-This project demonstrates how to host a static website on AWS using **S3, CloudFront**, and **IAM policies**.
+This project demonstrates how to host a static website on AWS using **S3** and **CloudFront**.
 
 ## ✅ Tools & Services Used
 - **Amazon S3** – Static website hosting
 - **Amazon CloudFront** – CDN + HTTPS
-- **AWS IAM** – Permissions & access control
+- **S3 Bucket Policy** – For public read access control
 
 ## 📐 Architecture Diagram
 
+[ User ]
+   ⬇
+[ CloudFront - HTTPS ]
+   ⬇
+[ S3 - index.html ]
 
 
 
