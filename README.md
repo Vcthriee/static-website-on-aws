@@ -35,5 +35,5 @@ This project demonstrates how to host a static website on AWS using **S3** and *
 _Add screenshots of your AWS setup and live website here!_  
 
 ## 👨‍💻 Author  
-**Your Name**  
+**Victory Arikpo**  
 _Aspiring AWS Cloud Engineer_ 🚀
