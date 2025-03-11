@@ -31,9 +31,9 @@ This project demonstrates how to host a static website on AWS using **S3** and *
 
 ---
 
-## 🖼 Screenshots (Optional)  
-_Add screenshots of your AWS setup and live website here!_  
-
+## 🖼 Screenshot of the Landing Page
+![Landing Page Screenshot](https://github.com/Vcthriee/static-website-on-aws/blob/main/Screenshot%202025-03-11%20221549.png)
+  
 ## 👨‍💻 Author  
 **Victory Arikpo**  
 _Aspiring AWS Cloud Engineer_ 🚀
